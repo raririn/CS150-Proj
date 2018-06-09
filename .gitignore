@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Actual Data files
+test_format1.csv
+test_format2.csv
+train_format1.csv
+train_format2.csv
+user_info_format1.csv
+user_log_format1.csv
